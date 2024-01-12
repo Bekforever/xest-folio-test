@@ -1,0 +1,26 @@
+.stat {
+	display: inline-block;
+	font-size: 70px;
+	font-weight: 600;
+	font-family: arial;
+	position: relative;
+	margin: 10px;
+}
+.stat:before {
+	content: attr(data-text);
+	background: linear-gradient(to bottom, #4b34e4 0%, #ee346b 100%);
+	-webkit-text-stroke: 5px transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+}
+.stat:after {
+	content: attr(data-text);
+	left: 0;
+	top: 0;
+	position: absolute;
+	background-image: linear-gradient(#fff, #fff 100%);
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+}
