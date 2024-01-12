@@ -13,35 +13,35 @@ const Brands = () => {
 					alt='brand image'
 					width='170'
 					height='100'
-					className='md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
+					className='lg:w-[170px] lg:h-[100px] md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
 				/>
 				<Image
 					src='/b2.svg'
 					alt='brand image'
 					width='170'
 					height='100'
-					className='md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
+					className='lg:w-[170px] lg:h-[100px] md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
 				/>
 				<Image
 					src='/b3.svg'
 					alt='brand image'
 					width='170'
 					height='100'
-					className='md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
+					className='lg:w-[170px] lg:h-[100px] md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
 				/>
 				<Image
 					src='/b4.svg'
 					alt='brand image'
 					width='170'
 					height='100'
-					className='md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
+					className='lg:w-[170px] lg:h-[100px] md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
 				/>
 				<Image
 					src='/b5.svg'
 					alt='brand image'
 					width='170'
 					height='100'
-					className='md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
+					className='lg:w-[170px] lg:h-[100px] md:w-[90px] md:h-[70px] sm:w-[85px] sm:h-[50px]'
 				/>
 			</div>
 		</div>
